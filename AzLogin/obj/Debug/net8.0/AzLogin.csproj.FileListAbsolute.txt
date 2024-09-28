@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\Downloads\AzLogin\AzLogin\obj\Debug\net8.0\AzLogin.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Downloads\AzLogin\AzLogin\obj\Debug\net8.0\AzLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Downloads\AzLogin\AzLogin\obj\Debug\net8.0\AzLogin.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Downloads\AzLogin\AzLogin\obj\Debug\net8.0\AzLogin.AssemblyInfo.cs
+C:\Users\lab_services_student\Downloads\AzLogin\AzLogin\obj\Debug\net8.0\AzLogin.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\AzLogin\AzLogin\obj\Debug\net8.0\AzLogin.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Downloads\AzLogin\AzLogin\obj\Debug\net8.0\AzLogin.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Downloads\AzLogin\AzLogin\obj\Debug\net8.0\AzLogin.RazorAssemblyInfo.cs
